@@ -108,7 +108,7 @@ section .black{
 
 section:hover .raspberry{
 	right: 100%;
-	border-collapse: 50%;
+	border-radius: 50%;
 	background: gray;
 	opacity: 0;
 }
